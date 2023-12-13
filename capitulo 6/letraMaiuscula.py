@@ -1,0 +1,1 @@
+print('aldou Huxley was born in 19894'.capitalize())

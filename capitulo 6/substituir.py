@@ -1,0 +1,1 @@
+print('A screaming comes acrosss the sky.'.replace("s", "$"))
